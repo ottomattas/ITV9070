@@ -1,0 +1,200 @@
+
+The most obvious fact about, memory is that it's full of facts. And then I then I go on to say, the neuros the people interested in the neuroscience of memory refuse to deal with this fact. That it the the neuroscience of memory isn't even wrong because it doesn't even attempt to explain the most basic thing about memory, which is that it's full of facts. Welcome back to Cognitive Evolution. I'm Cody Commerce, and this is my show about the personal side of the intellectual journey.
+
+Alright. So today's guest is a gentleman named Randy Galistal, and his official title is distinguished professor emeritus in the department of psychology at Rutgers. But, really, what he has been doing for, as far as I can tell, the majority of his career is pissing off neuroscientists and making broad claims about the things that they're overlooking, particularly in the neuroscience of learning memory. And the problem with these claims is not that they are broad, but that they might actually be they might actually be correct. And, yeah.
+
+So I had a cool conversation with Randy. He was a lot of fun to talk to him. But when I was sort of going through it, it was a little I was like, okay. How how do I how do I wanna bring this to the world? And, basically, what I think happened is that we had 2 separate but related conversations.
+
+And, one of them was about the sort of story behind Randy's experiences and how he got to sort of develop them. But then we we sort of left that behind for, you know, getting further into his thoughts about what this what what his sort of general scheme of theories means and and and where it's what what it looks like for neuroscience. And so that's what I'm gonna be presenting in this episode is that latter sort of portion of the of the conversation. And where I came to it from was this book that I read a few years ago called, Memory and the Computational Brain. I think it was published 2009.
+
+And, basically, you know, we sort of get into this, but it's about how neuroscientists have overlooked the fundamentals of symbolic cognition in the way they understand their brain. Basically, if too focused on connectionism and, you know, associations, in in in, you know, sort of synaptic connections, all that sort of stuff. And not really taking seriously the the the idea that, well, what's happening in the mind is people have facts and they're conducting reasoning, and there's things that are fundamentally symbolic processes. And so this is something that he's really taking neuroscientists to tasks to task on. And, so that was that was 2009, that book.
+
+But then his most recent sort of iteration of his argument comes from a 2021 paper called The Physical Basis of Memory in the journal Cognition. And, so that that's that's sort of his most up to date of that. And then another, paper that I'll just point point you to, if this is something of interest to you, is is a paper also published in 2021 called The Molecular Memory Code and Synaptic Plasticity, a Synthesis. And that is by Sam Gershman at Harvard. And, the following week, if you're listening to this, the, I'll be featuring my conversation with Sam, and we touch on what he thinks of of Randy's work and all this sort of stuff.
+
+So at any rate, in this episode I present us diving into the theory of how Randy has made a career upsetting neuroscientists, and then I'll publish a follow-up episode which if you if you want to sort of dig into the story and the sort of personal aspects of what that's looked like for Randy, then you can find that there. If you want to connect with my work, the best way to do that is subscribe to my Substack newsletter. I've got a lot of great stuff coming up on that. It's the best way to keep up with new Cogno Revolution stuff. I also have a additional series called cog rev redux.
+
+And the idea here is that I go back to old episodes of cognitive evolution and sort of give a backstory, a running a running narrative on what the, you know, sort of the things that have stuck with me years later after conducting an interview, what what that person said and, you know, sort of any personal relationship that I have with them or things that, you know, sort of part of the backstory of the interview. So anyway, you can find that on my Substack newsletter at codycommerce. Substack.com. And thank you for listening. Without any further ado, here is Randy Galiste.
+
+So I do want to go back and touch on a little bit more of your work. So specifically this book, Memory and the Computational Brain, let's maybe walk through the central argument of that, which I think you kind of touched on various aspects of it throughout this. But, you have this wonderful opening paragraph that I want to I just want to read out here. But it says, this is a long book with a simple message. There must be an addressable read write memory mechanism in brains that encodes information received by the brain into symbols as it writes, locates the information when needed, addresses, and transports it to computational machinery that makes productive use of the information, that is reads.
+
+So can you kind of maybe, like, flesh that out a little bit? Like, what does that process look like? What does a mechanism for read write memory look like? And and and how can we be sure that, you know, this is for sure something that we're we need to be looking for? Yeah.
+
+I mean, you're right. I mean, what more do I need to say? That's the whole book right there. You're right. It it is that is a good a great of a it's a long book with some and there you go.
+
+There's the message, and then there's, you know, 3 or whatever papers to elaborate on it. Well, the, you know, the story about the rabbi Hillel summary. Right? Or the that's rabbi Hillel's summary of, the doctrines of Judaism was it well, it was basically the golden rule, but it was he said it should be something you could recite while standing on one foot. Anyway, so that's the, that's the book.
+
+Well, so because because the computational theory of mind has basically banished behaviorism from most of psychology. And because neuroscientists are sensitive to that, these days, both psychology, almost all cognitive scientists, and most neuroscientists, though certainly not all, by you know, they they pay lip service at least to the computational theory of mind. But then comes the qualifications. So the connections say, yes, a brain computes, but not like a computer. And because I grew up with computers and because computer science was really new when I was starting out and because I found it absolutely fascinating and because I was building my own computers in order to run my experiments.
+
+So I was exposed to comp computers computing machines, both from an engineering perspective, a hands on perspective, but also the theory of it and, and Turing and, the Chomsky hierarchy and so on. And when the neuroscientists say, yeah, brain computes, but it doesn't compute in the way in which a computer computes. I said to myself, so can you say something about how you compute other than the way a computer computes you? I guess Because, I've been studying how machines compute. And as near as I can tell, the only game in town, is, the game outlined by Turing.
+
+Right? You're like, well, I'm really excited to see your multi gazillion dollar idea architecting a completely different way of constructing a computational machine based off these novel principles you're developing. I mean, it it came it came out. All these miracles have, took so I was at the beginning, but first of all, there was already a very clear mathematically precise theory about this. Right?
+
+You could prove theorems, right, about things and people were busy doing this. And, and moreover, there were machines and they actually worked. And in fact, every year, they worked more impressively. Right? And, but the basic foundation, the conceptual foundation of those machines didn't change at all.
+
+I mean, what changed was the underlying engineering, the the physical realization of the concept. Right? But from the very beginning, and in fact, once I I read a lot in the history of things going back to Babbage. I mean, Babbage had his symbols. Right?
+
+And he had his arithmetic operations that, operated on the symbols. And if you were actually programming computers, you learned that almost no matter what they did, even when they were processing text, it all was traceable back to this, CPU, which was basically doing arithmetic and logic. So that if you had a riff if you had symbols and you had arithmetic and logic and you had a way of storing the results of the computational operations so that you could summon them back in the future, in the indefinite future, you had a computing machine. I mean, conceptually, the computer hasn't changed at all since 19, since the 19 forties, since when Konrad Soudza first did 1 in, Germany during World War 2 and when and the ENIAC at Penn and so on. Conceptually, it's, the same basic machine, the same basic diagram.
+
+And and it's very clear what each of these things does and in particular, the fundamental role of the memory. Right? I mean, the the best definition of a finite state machine is it's a Turing machine that cannot read what is written. Instead of focusing on the bay basically bogus issue about the amount of memory, it's if it if it can't read what is written, it's a finite state machine. And there are all these proofs that there are a whole bunch of problems that can be solved by a Turing machine that can't be solved by a finite state machine.
+
+So when I would I'd say, look. And again, this is reflects the idea of going back to the mathematics and so you another way of putting this is you can't neuroscience, like all sciences, impinges on many other sciences. And when you impinge on some other science, you should learn that other science. You shouldn't start saying, I'm gonna make it up on my own. I I mean, the people who study cognitive maps, most of them seem to don't not know anything about navigation.
+
+That is they're kinda making up a terminology of their own, and they're making up cockamamie stories about navigation. Navigation is a well understood mathematical topic and engineering topic and has been for several centuries now. And it's if you're in this mineral sense of of navigation We're we're problem solved. Okay. Good.
+
+That's all you need. It's madness to to sort of say, well, I'm just gonna invent my own words and talk about this in my own way. Right? When people have, have been there before you and learned painfully, an effective, conceptual scheme. So all of this applies to computing science as far as I'm concerned.
+
+Right? People who do theoretical computing science don't think I'm studying what can be computed on silicone. Right? They they they think they're studying what can be computed, period. Yeah.
+
+And and so, the neuroscientists, if they say it's in some different way. Right? Well, come on, guys. Stop. You know, there are no theorems.
+
+There are no it's not as if there were some competing formalism that, said, well, here's another formalism for computing. Right? And I understood they waved their heads. Oh, it's analog. It's digital.
+
+Blah blah blah blah blah blah. Right? Yeah. Let me, let me see if I I mean, so, there's there's a lot there. And let me, like, take part of that and rephrase it in a way that makes sense to me.
+
+I think it's kind of the same thing that you're talking about. Basically, one way to understand what you're saying is that the way we approach the study of the brain right now dramatically underestimates the importance of, symbolic processes in cognition. So, you know, for example, in in deep neural networks, we have, you know, they they work on these associative principles. And so, you know, the neural network is looking at, you know, a bunch of examples from a game, for instance. And then slowly, it's sort of finding its way to optimal ways of playing.
+
+But the human brain and, you know, cognition is very different. So you can say to someone, you know, go through that door over there. And they can go do that. And so that is a symbolic manipulation of their behavior. But you can't tell a neural network to go to the door for another reason because there's no sort of single, isolatable representation of the door.
+
+It's all distributed throughout the network. So, you're saying that for both, you know, kind of neuroscience, the way we formalize it and computationalize it, and our understanding of how the brain works generally, we have to be way more serious about where that symbolic capacity is coming from. Yeah. That's for sure what I'm saying. Let me come at it in a very different way from where I was.
+
+I don't know if you've, had a chance to read this, paper that I recently published called the physical basis of memory and cognition. But, and the opening sentence, as you can see, I try to work hard on opening sentences. The opening sentence says, the most obvious fact about, memory is that it's full of facts. And then I could then go on to say, this, now I'm leaving exact quotes. But then the substance of what follows is, the neuros the people interested in the neuroscience of memory refused to deal with this fact.
+
+That it the the neuroscience of mem I don't put say this, but what I'm reading between the lines, what I'm saying is the neuroscience of memory isn't even wrong because it doesn't even attempt to explain the most basic thing about memory, which is that it's full of facts. So, Randy, I'm assuming that you deliver all of your lectures on one foot since you can summarize it in a sentence or a paragraph, and and then we can all go home, you know, shortly thereafter. Well, now then they can all get angry and and put their fingers in their ears and so on. But but it's true that it it try it out for yourself. It corners some neuroscientists and ask them.
+
+So there's a tremendous amount of, experimental results showing it's not even remotely controversial these days among people who study this sort of thing, that, animals of all kinds learn the durations of the intervals that they experience. K? So that's a fact. Right? A really simple fact because a duration is one number.
+
+Right? So how do you store durations in, in, neural tissue? Try it. See what happens. Well, you know, Randy, actually, maybe a lot of family.
+
+Maybe Well, it's a circuit property. Right? You see, there are a whole bunch of synapses that they all change, and it's all it's spread across all those synapses. I said, okay. Okay.
+
+It's spread across all those synapses. Can you describe the principle, by which it's spread? I mean, is 10 spread in a different way from 5? And so I did start leaning on them. Right?
+
+And it's all bullshit. And that's why there's no you go into a standard textbook, and there's no attempt whatsoever anywhere. Like, Candel and Schwartz. Right? 1500 pages.
+
+And you ask, well, where does it explain how you store a fact? It isn't in the index, because it isn't in the 1500 pages. Right? You say, but wait a second. I mean, I know my name.
+
+I know Sam Gershman's name. I know Harvard. I even know where Harvard is. I I speak French. I speak English.
+
+Randy, what you're what you're not getting is that it's in the connection between all of the, the items in the index that that the facts come out. Right? It's not it's not one single thing. It's the connection between all of them. That's what you're not getting.
+
+Yeah. Yeah. But that's a that's an article of religious faith, not an explanation. Right? But I think I think you're I think you're actually onto something here.
+
+I think you need to start your own podcast in which you corner neuroscientists, and you ask and you grill them. If you if you do that, I'll I'll set I'll I'll get the neuroscientists. I'll bring them. I'll put them on camera in front of you. I'll, you know, record it at the episodes.
+
+I'll put them out there. I would I would love to see you go after neuroscientists 1 by 1 and do this cornering yourself. I've been trying to follow that strategy aided and embedded by a few friends, and I can tell you, how, how it went in the most recent, one. So a friend of mine, Pierre Picca, who's a linguist in Paris, but very interested in all kinds of questions, and he kinda knows many of the prominent scientists in in France, including Stan Dehan and, De Haines and, and and as it happens, Jean Pierre Jean Joux. You know who Jean Pierre Jean Joux is?
+
+Well, he's probably in the half a dozen most famous molecular biologists in France. An all but Nobel Prize, he discovered the allo, allosteric, interact receptor interactions. And he's also very much in the French, tradition of a public intellectual. Right? That is he's not only done world class molecular biology, but he pronounced he's written a book called La Neuronal, which I think has been translated into English as the he neuro the neur neural the neural, that doesn't quite make sense.
+
+I read it in French, but but anyway, it's been translated in a big thick book. Yeah. All all about, you know, how we understand the it's all kind of Descartes. Right? We understand how the brain works and the brain is the mind and talk.
+
+All of which I agree with. I mean, I agree the way the brain is the mind. I don't agree if we understand how the brain works. But, anyway, Jean Pierre arranged for me to debate, I mean, yeah. Pierre Picca arranged for me to, debate Jean Pierre in in, little town in in Belgium.
+
+It's too many towns they have in Belgium. Well, actually, it's so very, very charming town. Anyway, so, we and, Virginie Vanvasenov agreed to moderate the debate, and it was agreed that we would each make presentations, and then Virginie would pose questions and the audience would pose questions and so on. And, so I prepared my PowerPoint presentation. I think it was, you know, I'm sorry to recall.
+
+It was, like, 4 megabytes. Jean Pierre pre prepared his. His was so big that it was very hard to transmit it to me. It was 646 megabyte powerpoint. Right?
+
+And it was a classic neuroscience snow job PowerPoint. Right? Every slide was actually about 10 slides. Right? You had a it was subdivided into all these little panels, and there were great pictures here, and then some graph here, and another graph there, and another picture, and a neuron here, and a brain there, and a scan here, and so on.
+
+Right? Every slide looked like that. So, he made his presentation, and I made my presentation. But I was coming at him from ways that you learned from, the book and even more in what I've subsequently written, from biophysics and the efficiency and then, you know, how many ATPs were being hydrolyzed and so on, on the various theories. And he he was completely unprepared for someone arguing, particularly, you know, a cognitive scientist like, quote, Mead, arguing on those grounds.
+
+Anyway, he made this presentation. I made mine. Version, he asked her questions. The well, I'm you'll see why. And he would respond at great lengths to her questions.
+
+And, I knew that a lot of what he was saying would strike many people as kind of blowing blowhard, and so I kept my answers as concise and short as I possibly could. So he spoke maybe 95% of the time, and I spoke 5% of the time during the, quote, debate part of it, the back and forth. But I have to say in all modesty that most of my punches landed and none of his did. And I think he thought the same thing because the next morning, Pierre Pica and I were having breakfast when he got a phone call from Jean Pierre. And he had to hold the phone away from the ear.
+
+I could hear Jean Pierre screaming at it. Jean Pierre was the epaulectric. He was so angry that he berated the beer, for, for half an hour. I mean, they had to sort of walk off to another part of the restaurant home. And and he was very, very angry, and, he refused to allow them to put the to they recorded it, of course, but he refused permission for them to upload the So there's no video evidence, only eyewitness testimony.
+
+Yeah. He didn't they of course, he gave permission for them to upload his presentation, and I gave permission for them to upload mine. So you can see the presentations, but you can't see the debate. Hey. Cody here.
+
+So as I've mentioned on the show before, I am graduating from my PhD program pretty soon here, hopefully in spring 2022. And while that's great, it also means I have to start making plans for my next phase. And ideally, I'd like to do this. I'd like to podcast and write and be able to achieve at least a semblance of what looks like a next career step producing this kind of work. So it is time for me to take the pod from something that merely exists to the next level.
+
+And part of what this entails is that I am going to be offering a premium subscription to my podcasts and writing. So one of the questions that I've been asking myself recently is, what have I learned from doing this podcast, and how has it affected me personally? And so, I am starting a segment called, CogRev Redux, in which I listen back to my catalog of episodes, starting from my first interview over 2 years ago, and I edit down the original to a 30 minute show featuring the highlights of what that guest said and and what really stuck with me over that time, as well as my own reflections on where I was when the interview was conducted, what I was interested in, and how that's all changed. And I will also go into any backstory I have with the guest or strange behind the scenes antics that happened during the taping that didn't make the final cut. So I will offer 2 free COGRAV Redux episodes in January, then from there they will come out for premium subscribers every other week.
+
+With the premium subscription, you also get my series called Reviewed. It's reviewed in which I revisit, reread, or reconsider the books, movies, podcasts, or other content that has most impacted me throughout the years. In this show, I love to ask people about the books that have most influenced their thinking, and so now I want to explore my own answers to those questions in greater depth. There's also a new series I'm launching called The Grad Student's Guide to Podcasting. It features everything I've learned while doing Cognitive Revolution through my PhD, as well as interviews with other graduate student podcasters.
+
+That will be coming out throughout January 2022. Anyway, like I said, this is part of me building out toward my next phase, so I really do appreciate the support. If you are interested in signing up for a subscription, you can check out codycommerce. Substack.com. That's codycommerce.
+
+Substack.com. Even if you just sign up for the free version, it helps a ton to support my future work. Okay. Thank you for hearing me out. Now, back to the show.
+
+So I I you mentioned this recent paper, and it sounds like maybe you're beginning to weigh in on where this symbolic capacity might come from. Like, you know, how how have we progressed on this since, you know, 2009 is when you're, you know, that that book was published and, you know, yeah. So so how how have we been progressing on this? What have we learned? And also feel free to just include some wild speculation, if if, you know, there's things that you think we might find in the future that's, we we haven't quite gotten to yet.
+
+Well, my answer to how things have progressed would be classified by almost everybody, and I wouldn't disagree as wild speculation. Well, it depends exactly on your definition. I think it's has some pretty strong arguments underlying it, but, the so in that book, we suggest that we say, look. The synapse, historically, as a concept, was never intended to be a repository for information. It was in I mean, that slogan in, as you probably know, in in, Society For Neuroscience is neurons that fire together wire together.
+
+Right? Well, wire captures what an association has traditionally been and what a synapse has traditionally been. Mainly, it's a conductor of activation. Right? It's not a register.
+
+It's not, the reason that there is there's so much hand waving about how you store a duration is not that it's impossible to think of how you might store 1 in a synapse. In fact, I routinely suggest to the people who are waving their hands, at least 2 fairly obvious possibilities, which they always or most of them reject. But I say, okay. If you don't like either of those, what's yours? Well, there are a lot of synapses and so on.
+
+Right? That is they don't answer the question. You I don't know if you've ever, viewed the har were you at Harvard when, when I spoke there in my, at the MBB and, with John Vlissmann as as the discussant. Yeah. I don't believe I was.
+
+Oh, well, that's that, YouTube, the last I checked, had several 1,000 views. Anyway, I posed this question to John, I who's a discussant. Right? And, at the end of my talk, I said, now John, I hope in your discussion, my talk, you will address the following question. And he which is how would you store a number in a synapse?
+
+And number being an example of information, a fact. You know? And he ignored that. He didn't he showed slides of his own and argued for his own favorite theory rather than discussing mine, but that's almost always what discussants do, so I'm used to that. But then I this was unusual in that I got a rebuttal.
+
+I got to speak again a bit, and I said, John, you're docked. I said, I asked you at the end, on your story, how would you store a number in a synapse? So, John, I'm giving you a second chance. He ducked again. And and people began to laugh.
+
+Right? He he wouldn't go there. Right? So so this just illustrates the the point I'm calling attention to in that first sentence in the recent paper, right? That neuroscientists simply refuse to think about the question of how you store a fact in the brain.
+
+But when you step back and you say, so okay. Back in the behaviorist days, they might have said, well, you know, human beings, they have facts in their brain, but human beings are very unusual. This is sort of closet dualism that you see, peeking through even among sworn behaviorists. And it but I but these days, no one would say that. Right?
+
+Because we know the rats have a cognitive map, and we know they've learned the durations, and we're we're done arguing about that. That's scientific fact. Okay. Well, a a cognitive map. Right?
+
+I mean, it's a bunch of directions and distances and landmarks and snapshots, you know, images of landmarks and so on. I keep pressing on people. I say, look. What is a snapshot? Well, you know, we know what a snapshot is, particularly these days with a digital camera.
+
+It's a big array of numbers. So so, in the old days, it used to be a big array of silver halide crystals, but now it's a big array of numbers. Right? So what's a snapshot in the brain? All the insect navigation people agree that the bees are storing and the ants are storing snapshots.
+
+But when you press them, okay but if you say, well, there are numbers in the brain. Oh, no. No. No. Well, you said there were snapshots in the brain.
+
+What's your what's your serial snapshot? Let's see. Do we have anything that's a candidate for what you're what you're talking about? I know Of course, we do. That is if you if you hit in this, you'll see the information of information theory.
+
+If you say, well, all these things that affects technically, scientifically are information. They limit when you know a fact, it limits the possibilities. Right? If if I don't know someone's name, then that's a very large field of possibilities. And when I learn their name, voom, the entropy collapses.
+
+And But okay. So what is the specific thing in the brain? Okay. No. Hey.
+
+Bear with me. So do we know in biology, is there a structure that is devoted to preserving information in computation accessible form? You know, and the answer, you know, anybody who can't answer that question just flunked the introductory course in in biology. Right? Because because yeah.
+
+DNA, RNA, polynucleotides. Right? Hey, folks. That's been what's we've been learning the last half century. Right?
+
+They these molecules are full of information in an absolutely clear, precise, scientific state. Since you can ask me how much information, and I'll say, give me a moment, and I'll tell you just how much information. Right? So and and, of course, that's because they look exactly like the bit register in a computer. Right?
+
+The the the registers, they're full of information too. Right? We've understood again since the very early days of computing that if you wanna store information, you need bit registers or the any physical equip, equivalent. Right? The physical realization of bit registers have been changing every 6 months during the last 50 years.
+
+Right? But it's clear to all people who know the the requisite mathematics that that the, well, there's no arguing that the that the basis of our entity is a digital scheme. Right? And it has a code, and there are elements in the code, and there are words in the code. And these days when we understand homeobox genes, we even have some insight into how the code is read in such a way that it can create the, bodily structure that it codes for.
+
+Right? So those molecules were are the only biological structure that we know beyond argument stores information. Alright. Maybe it's those molecules or another molecule that looks an awful lot like them. Right?
+
+Because what you have to focus on is not the molecule itself. What is it about that molecule that makes it such a perfect information storage device? And physicists have calculated the DNA is probably within maybe at least 10% of as efficient a information storage medium as can be realized at ordinary, temperatures and, pressures, right? You can put more information in that structure. You can put something approximating the maximum amount of information that basic physics tells you could be put in a given volume of space.
+
+Alright. And it's thermodynamically stable, which the other big thing about a memory is that you want it to last. And, of course, these days when they're figure when they're figuring out that, hey, look, there's this bone from a woman in a cave in Russia who had a Neanderthal father and a Denisovan mother, or maybe I've got it the other way. They know that from reading the DNA, and that was 50000 years ago. Right?
+
+Well, alright. That's what physicists call thermodynamic stability, and that's when anyone who builds computers says, woah. We want some of that. Right? Because, that's you can put an awful lot of information in there and you don't have to feed it energy in order to preserve the information.
+
+It just stays there and and so on. Right? So that it's conceptually, that's what DNA is. Right? Okay.
+
+So we're looking for something like that. It could be my favorite guess is RNA, which is a very close cousin of DNA, right, which has all the same properties. Right? So why is it good at storing it information? Because it has these 4 different elements and there are no constraints on the sequence in which they can be, put.
+
+Right? So you can put any one of the 4 right next to any other so you can build the strings out of these elements. Right? And, any engineer looks at that and says, Woah, I can put information in that. In fact, in one of my talks not too long ago, one of the engineering people who introduced me showed a video that had been passed through bacterial DNA.
+
+That is the- the frames in the video had all been stored in bacterial DNA and then read back out of the DNA into the digital thing that would, right? So these days, people are storing poems in DNA and so on. They're they're talking about firing, missiles to, from other galaxies that'll have our history written in DNA and so on. Oh, wow. Right?
+
+Oh, okay. Wow. Okay. So this is an information storing medium. And most importantly, it tells us what an information's as far as anyone knows, this is what an information storing medium has to look like.
+
+Yeah. Right? And it's not what a synapse looks like. Right? Alright.
+
+So I'm forced to guess. I would argue that the symbols are realized at the molecular level in molecules that either are polynucleotides or look a lot like, you know, have the same properties as polynucleotides, inside neurons. And I've been hugely encouraged to, I began to think that way that you can sort of see that peeking through in the book, but that's 10 years ago. But 4 or 5 years after that book was published, I got an email from people I had argued with in Sweden many years before in which I had suggest I didn't put any of this in print because I knew people would think I was stark raving mad. But I told them, like, the Synapse story is a failure.
+
+They they were working on the Synapse story, and then they said, well, smarty, what do you think it might be? And I say, well, look, I don't know. But if I had to guess, I would think the symbols are molecular. So years went by. They continued to do their experiments.
+
+This is Jerry Hen Heslow at Lund University and his postdoc, Friedrich Johansen. And and I got an email one day. I'd totally forgotten that I didn't I didn't even recognize the name. I came from Sweden and the subject line said, you were right. You don't give me you don't give me any emails like that.
+
+So, of course, I clicked on that one first, and they had a draft of a paper from their latest research, and Frederick Johansen had shown beyond reasonable argument that the memory for the duration in eyeballing conditioning is inside the individual Purkinje cell. And they tried to get this published in Science and the reviewers went bananas. You you you can't imagine the kind of shit you'll run into once, somebody's box has really been thoroughly gored. And so I I was a man In those days, you could still communicate papers to the PNAS. So it eventually found its way into the PNAS and slowly but surely, it the neuroscientists, at first, they just pretended they hadn't heard about it, hadn't read it and so on.
+
+And now they say, yeah. Okay. I'll go blah blah blah blah blah. But, you know, once it's inside the neuron I mean, once you get inside the neuron, what do you got? Well, you got molecules or, you know, molecular level structures.
+
+So so that emboldened me. Right? And I thought, okay. Now that I have at least some evidence that it must be molecular, I'm I'm gonna go public with these crazy ideas. So that's what I've been pushing lately as the answer to where the symbols are.
+
+Randy, that's so fascinating. Thank you so much for taking the time to talk today. You've been really jazzed with your time and, like to wrap it up here. But, thanks so much for taking the time to talk today. It was it was a huge pleasure.
+
+I enjoyed it. That was my conversation with Randy Galisto. As I mentioned, you can check out the rest of my work at my Substack newsletter. That's codycommerce. Substack.com.
+
+And as always, thank you for listening. I'll be back here usually in a week, but actually this time only in a couple days, with another episode of Cognitive Evolution. That is the second part of the Randy Galistel episode. This one was the theory. That one will be the story.
+
+So, later on this week, there is more cognitive revolution coming your way.
