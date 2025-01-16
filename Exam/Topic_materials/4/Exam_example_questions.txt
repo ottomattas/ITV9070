@@ -1,0 +1,15 @@
+1. Semiotics
+- How does the analysis of a meaning of a sign differ between Peirce and Saussure?
+- How does the "connotation" differ from the "myth" in the Barthes sense? Explain briefly and bring an example for both.
+
+2. Analytic philosophy.
+- What is meant by "analytic" and what is meant by "synthetic" sentences? Explain briefly and bring an example for both.
+- What does Quine say about this distinction in his paper "Two dogmas of empiricism"? Explain and bring examples.
+
+3. Evolution
+- Bring two examples of a method of thinking or an idea, so that the first one is better explained using evolutionary psychology, and the second is better explained using memetics.
+
+4. Philosophy of mathematics
+- Explain the difference between classical and constructive mathematics.
+- How does intuitionistic logic relate to constructive mathematics?
+- Bring an example of a statement which is always true classically, but not always true constructively.
